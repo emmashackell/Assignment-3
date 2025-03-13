@@ -12,22 +12,32 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/sample-page/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/products/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/sample-product-page/
+            http://localhost:8000/products/step-through-style-dutch-bike/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/step-through-style-dutch-bike/
+            http://localhost:8000/products/summit-hardtail-mountain-bike/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/wilco-heritage-bike/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/bluejay-electric-bike/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/dual-suspension-bike/
         </loc>
     </url>
     <url>
